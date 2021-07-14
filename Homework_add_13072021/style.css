@@ -1,0 +1,13 @@
+.product {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.product-title{
+    font-size: 38px;
+    color: turquoise;
+
+}
+.product-image{
+    width: 300px;
+}
