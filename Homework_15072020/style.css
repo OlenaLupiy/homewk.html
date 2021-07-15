@@ -5,4 +5,16 @@
 .wrapper{
     width: 20%;
 }
+.users-box{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 100%;
+    padding: 5px;
+}
+
+.user_box, .address-box{
+    box-sizing: border-box;
+    width: 45%;
+    margin: 5px;
+}
 
