@@ -1,0 +1,8 @@
+.wrap{
+    display: flex;
+    flex-wrap: wrap;
+}
+.wrapper{
+    width: 20%;
+}
+
