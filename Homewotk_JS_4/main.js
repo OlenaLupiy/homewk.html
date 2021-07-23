@@ -92,16 +92,16 @@ class User{
     }
 }
 
-let user1 = new User(1, 'Mike', 'Mihael', 'bo23@gmail.com', 978598745);
-let user2 = new User(2, 'Bob', 'Bobenko', 'po56@gmail.com', 2365897987);
-let user3 = new User(3, 'Sam', 'Semenyuk', 'gi65@gmail.com', 58974563 );
-let user4 = new User(4, 'Olya', 'Vacyk', 'lo25@gmail.com', 256987465);
-let user5 = new User(5, 'Halya', 'Bondarenko', 'io25@gmail.com', 256987435);
-let user6 = new User(6, 'Kate', 'Polap', 'lo23@gmail.com', 978598745);
-let user7 = new User(7, 'Tom', 'Bobenko', 'po56@gmail.com', 2365897987);
-let user8 = new User(8, 'Nil', 'Semenyuk', 'gi65@gmail.com', 58974563 );
-let user9 = new User(9, 'Socrat','Vacyk', 'lo25@gmail.com', 256987465 );
-let user10 = new User(10, 'Eshly', 'Bondarenko', 'io25@gmail.com', 256987435);
+// let user1 = new User(1, 'Mike', 'Mihael', 'bo23@gmail.com', 978598745);
+// let user2 = new User(2, 'Bob', 'Bobenko', 'po56@gmail.com', 2365897987);
+// let user3 = new User(3, 'Sam', 'Semenyuk', 'gi65@gmail.com', 58974563 );
+// let user4 = new User(4, 'Olya', 'Vacyk', 'lo25@gmail.com', 256987465);
+// let user5 = new User(5, 'Halya', 'Bondarenko', 'io25@gmail.com', 256987435);
+// let user6 = new User(6, 'Kate', 'Polap', 'lo23@gmail.com', 978598745);
+// let user7 = new User(7, 'Tom', 'Bobenko', 'po56@gmail.com', 2365897987);
+// let user8 = new User(8, 'Nil', 'Semenyuk', 'gi65@gmail.com', 58974563 );
+// let user9 = new User(9, 'Socrat','Vacyk', 'lo25@gmail.com', 256987465 );
+// let user10 = new User(10, 'Eshly', 'Bondarenko', 'io25@gmail.com', 256987435);
 
 const array = [new User(10, 'Mike', 'Mihael', 'bo23@gmail.com', 978598745),
 new User(12, 'Bob', 'Bobenko', 'po56@gmail.com', 2365897987),
@@ -115,7 +115,8 @@ new User(8, 'Nil', 'Semenyuk', 'gi65@gmail.com', 58974563 ),
  new User(108, 'Eshly', 'Bondarenko', 'io25@gmail.com', 256987435)
 ];
 
-console.log(array);
+// console.log(array);
+
 // const arrayNew = []
 // for (let i=0; i < array.length; i++) {
 //     if(array[i].id % 2 === 0){
