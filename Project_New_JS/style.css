@@ -1,0 +1,12 @@
+#users{
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+
+}
+#users>div{
+    box-sizing: border-box;
+    width: 45%;
+    background-color: papayawhip;
+    margin: 5px;
+}

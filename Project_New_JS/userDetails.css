@@ -1,0 +1,27 @@
+#userPost{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+#userPost > div{
+    width: 18%;
+    height: 50px;
+background-color: lavender;
+    box-sizing: border-box;
+    margin: 5px;
+}
+#userAll{
+    width: 100%;
+    display: flex;
+    background-color: #FDECED;
+
+    flex-direction: column;
+
+}
+#userAll > button{
+    display: block;
+    width: 90%;
+    justify-content: center;
+    height: 50px;
+    margin-left: 40px;
+}
